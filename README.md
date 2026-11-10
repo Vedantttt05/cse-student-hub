@@ -124,3 +124,8 @@ GitHub: [@Vedantttt05](https://github.com/Vedantttt05)
 ## 📜 License
 
 This project is available for educational and learning purposes.
+
+## 🌐 Live Demo
+
+Try CSE Student Hub:
+https://cse-student-app.streamlit.app/
